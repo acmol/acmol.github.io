@@ -13,6 +13,11 @@ comments: true
 线性代数直观理解视频
 ======================
 
-[线性代数的本质系列短视频](https://www.bilibili.com/video/av6731067/)
+[线性代数的本质系列短视频](https://www.bilibili.com/video/av5977466)
+
+本质
+====
+
+行列式，表示的是矩阵表示的线性变换的放大率。
 
 
